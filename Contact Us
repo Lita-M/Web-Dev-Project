@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Contact Us</h1>
+<link href="Index.css" rel="stylesheet" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Pattaya&display=swap" rel="stylesheet">
+
+    <p>Still confused on where to travel next? We are here to help you out! </p
+    
+    <p> Fill out the form below and we promise to get back to you soon.</p>
+
+<form action="/action_page.php">
+<label for="cntctfrm_contact_name">Name: <span class="required">*</span></label></div><div class="cntctfrm_input cntctfrm_input_name">
+<input class="text" type="text" size="40" value="" name="cntctfrm_contact_name" id="cntctfrm_contact_name"></div></div><div class="cntctfrm_field_wrap cntctfrm_field_email_wrap"><div class="cntctfrm_label cntctfrm_label_email">
+
+<label for="cntctfrm_contact_email">Email Address: <span class="required">*</span></label>
+</div><div class="cntctfrm_input cntctfrm_input_email">
+<input class="text" type="text" size="40" value="" name="cntctfrm_contact_email" id="cntctfrm_contact_email"></div></div><div class="cntctfrm_field_wrap cntctfrm_field_subject_wrap"><div class="cntctfrm_label cntctfrm_label_subject">
+<label for="cntctfrm_contact_subject">Subject: <span class="required">*</span></label>
+								</div><div class="cntctfrm_input cntctfrm_input_subject">
+								<input class="text" type="text" size="40" value="" name="cntctfrm_contact_subject" id="cntctfrm_contact_subject"></div></div><div class="cntctfrm_field_wrap cntctfrm_field_message_wrap"><div class="cntctfrm_label cntctfrm_label_message">
+								<label for="cntctfrm_contact_message">Message: <span class="required">*</span></label>
+								</div><div class="cntctfrm_input cntctfrm_input_message">
+								<textarea rows="5" cols="30" name="cntctfrm_contact_message" id="cntctfrm_contact_message"></textarea></div></div></div><div class="clear"></div><div class="cntctfrm_submit_wrap"><div id="cntctfrm_submit_first_column" class="cntctfrm_column"><div class="cntctfrm_input cntctfrm_input_submit" style="text-align: left !important;"><input type="hidden" value="send" name="cntctfrm_contact_action">
+  
+  
+  <input type="submit" value="Submit">
+</form>
+
+<div class="copyright">Copyright © 2020 Website Title.com |  All Rights Reserved.</div></div><!-- .footer-left --><div class="footer-right col-sm-6"></div><!-- .footer-right --></div>
+
+</body>
+</html>
